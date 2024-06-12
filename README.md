@@ -7,12 +7,12 @@ Un juego de plataformas en 2D con diseño pixelado, programado en C# con Unity.
 
 ## Descripción
 
-Este proyecto es un juego de plataformas en 2D desarrollado en Unity, con un estilo visual pixelado. El jugador deben avanzar a través de 4 niveles, cada uno con un incremento en la dificultad. El objetivo es completar todos los niveles superando obstáculos y recolectando ítems.
+Este proyecto es un juego de plataformas en 2D desarrollado en Unity, con un estilo visual pixelado. El jugador debe avanzar a través de 4 niveles, cada uno con un pequeño incremento en la dificultad. El objetivo es completar todos los niveles superando los obstáculos y recolectando ítems.
 
 ## Características del Juego
 
 - **Diseño Pixelado:** Estilo visual retro con gráficos en pixel art.
-- **Incremento de Dificultad:** Cada nivel aumenta la dificultad un poco para así intentar desafiar un poco al jugador.
+- **Incremento de Dificultad:** Cada nivel aumenta la dificultad un poco, para así intentar desafiar un poco al jugador.
 - **Controles Intuitivos:** Controles simples y directos para tener una experiencia de juego fluida, mover con "WASD" o "las flechas" y saltar "espacio"
 - **Música y Efectos Sonoros:** Banda sonora y efectos de sonido para una inmersión completa en el juego.
 
